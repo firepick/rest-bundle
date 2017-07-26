@@ -1,5 +1,5 @@
 # RestBundle (MOVED...)
-###(See https://github.com/kinann-org/rest-bundle)
+### (See https://github.com/kinann-org/rest-bundle)
 
 Simplify REST API creation and maintentance with re-usable REST bundles.
 Encapsulate related REST services in a single JavaScript class that extends RestBundle.
